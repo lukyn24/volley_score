@@ -1,0 +1,13 @@
+body {
+	background: #ffe6cc;
+	font-family: "Nunito", sans-serif;
+}
+.jumbotron {
+	background: url("imgs/basketball_001.jpg");
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+    }
+.border-prave {
+	border-right: 10px solid black;
+}
